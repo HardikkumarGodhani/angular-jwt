@@ -1,6 +1,6 @@
 {
   "name": "angular-jwt",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Library to help you work with JWTs on AngularJS",
   "authors": [
     {
@@ -8,15 +8,8 @@
       "email": "martin@gon.to"
     }
   ],
-  "main": [
-    "dist/angular-jwt.js"
-  ],
-  "ignore": [
-    "src",
-    "test",
-    "Gruntfile.js",
-    "**/.*"
-  ],
+  "main": ["dist/angular-jwt.js"],
+  "ignore": ["src", "test", "Gruntfile.js", "**/.*"],
   "dependencies": {
     "angular": "*"
   },
